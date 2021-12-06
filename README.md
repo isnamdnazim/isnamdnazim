@@ -27,8 +27,9 @@ I'm Md Nazim Uddin from Bangladesh. I really enjoy learning new things.
 - ⚡️ Fun fact: I love travelling a lot.
 
 <h2 align="center">💡 Problem Solving Profiles </h2>
+<p align="center">
 <a href="https://www.hackerrank.com/isnamdnazim"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
-<a href="https://codeforces.com/profile/isnamdnazim"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h5 align="center"> Total Solved: 183 | Total Tried: 240 | Total Submissions: 210</h5>
+<a href="https://codeforces.com/profile/isnamdnazim"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 
