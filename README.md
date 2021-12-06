@@ -2,9 +2,8 @@
 
 I'm Md Nazim Uddin from Bangladesh. I really enjoy learning new things.
 
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/isnamduddin/)](https://www.facebook.com/isnamduddin/)
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isnamdnazim/)](https://www.linkedin.com/in/isnamdnazim/)
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isnamdnazim@gmail.com)](mailto:isnamdnazim@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-isnamduddin-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/isnamduddin/)](https://www.facebook.com/isnamduddin/)
+[![Linkedin Badge](https://img.shields.io/badge/-isnamdnazim-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isnamdnazim/)](https://www.linkedin.com/in/isnamdnazim/)
 
 
 - 🏢 I'm currently a student at the **International University of Business Agriculture and Technology**
