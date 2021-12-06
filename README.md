@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Md Nazim Uddin from Bangladesh. I really enjoy learning new things.Connect with me here -
+I'm **Md Nazim Uddin from Bangladesh. I really enjoy learning new things.Connect with me here -
 
 [![Facebook Badge](https://img.shields.io/badge/-isnamduddin-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/isnamduddin/)](https://www.facebook.com/isnamduddin/)
 [![Linkedin Badge](https://img.shields.io/badge/-isnamdnazim-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isnamdnazim/)](https://www.linkedin.com/in/isnamdnazim/)
@@ -32,7 +32,7 @@ I'm Md Nazim Uddin from Bangladesh. I really enjoy learning new things.Connect w
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 
-[![isnamdnazim's github stats](https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=dark&show_icons=true)](https://github.com/isnamdnazim) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
+[![isnamdnazim's github stats](https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=dark&show_icons=true)](https://github.com/isnamdnazim)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
 
 
 <!--
