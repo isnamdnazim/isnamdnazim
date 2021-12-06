@@ -32,7 +32,8 @@ I'm Md Nazim Uddin from Bangladesh. I really enjoy learning new things.Connect w
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 
-[![isnamdnazim's github stats](https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=dark&show_icons=true)](https://github.com/isnamdnazim) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=radical)](https://github.com/isnamdnazim/github-readme-stats)
+[![isnamdnazim's github stats](https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=radical)
 
 
 <!--
