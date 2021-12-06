@@ -34,8 +34,8 @@ I'm Md Nazim Uddin from Bangladesh. I really enjoy learning new things.Connect w
 
 <p align="center">
   [![isnamdnazim's github stats](https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
   </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
 
 
 <!--
