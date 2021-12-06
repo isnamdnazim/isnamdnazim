@@ -28,6 +28,7 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <p align="center">
 <a href="https://www.hackerrank.com/isnamdnazim"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
 <a href="https://codeforces.com/profile/isnamdnazim"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p>
+<hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 
