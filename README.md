@@ -7,7 +7,6 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <a href="https://www.linkedin.com/in/isnamdnazim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
-
 <h2 align="center">💡 Problem Solving Profiles </h2>
 <p align="center">
 <a href="https://www.hackerrank.com/isnamdnazim"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
