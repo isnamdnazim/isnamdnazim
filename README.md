@@ -3,13 +3,10 @@
 
 I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Connect with me here -
 <p align="center">
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/isnamduddin/)](https://www.facebook.com/isnamdnazim)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isnamdnazim/)](https://www.linkedin.com/in/isnamdnazim/)
- </p>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
-
-
-
+<a href="https://www.facebook.com/isnamdnazim"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
+<a href="https://www.linkedin.com/in/isnamdnazim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 
 <h2 align="center">💡 Problem Solving Profiles </h2>
 <p align="center">
@@ -17,7 +14,7 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <a href="https://codeforces.com/profile/isnamdnazim"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p>
 
 
-| <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=buefy&show_icons=true" alt="Nazims github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
