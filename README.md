@@ -17,6 +17,18 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=buefy&show_icons=true&hide_border=true" alt="Nazims github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<p align="center">
+<h2> 💻 Tech Stack </h2>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+</p>
 
 [![isnamdnazim's github activity graph](https://activity-graph.herokuapp.com/graph?username=isnamdnazim&theme=react-dark&line=24292e&point=24292e&area=true&hide_border=false)](https://github.com/isnamdnazim)
 
