@@ -14,7 +14,7 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 
 | <div align="center">
 <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=buefy&show_icons=true&hide_border=true" alt="Nazims github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a>
-</div>
+</div> |
 | ------------- | ------------- |
 
 
