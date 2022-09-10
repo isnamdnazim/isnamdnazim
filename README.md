@@ -1,10 +1,11 @@
-<p align="center">
+
 ### Hi there 👋
 
 I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Connect with me here -
-
+<p align="center">
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/isnamduddin/)](https://www.facebook.com/isnamdnazim)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isnamdnazim/)](https://www.linkedin.com/in/isnamdnazim/)
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 </p>
 
 
@@ -14,9 +15,10 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <a href="https://www.hackerrank.com/isnamdnazim"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
 <a href="https://codeforces.com/profile/isnamdnazim"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 
-[![isnamdnazim's github stats](https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=dark&show_icons=true)](https://github.com/isnamdnazim)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
+| <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
 [![isnamdnazim's github activity graph](https://activity-graph.herokuapp.com/graph?username=isnamdnazim&theme=react-dark&line=24292e&point=24292e&area=true&hide_border=false)](https://github.com/isnamdnazim)
@@ -50,6 +52,7 @@ Here are some ideas to get you started:
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I love travelling a lot.
+[![isnamdnazim's github stats](https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=dark&show_icons=true)](https://github.com/isnamdnazim)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&show_icons=true)](https://github.com/isnamdnazim)
 -->
 
 
