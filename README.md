@@ -14,9 +14,8 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <a href="https://leetcode.com/isnamdnazim/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
 
-
- <p align="center">
- <h2 align="center">💻 Tech Stack</h2> 
+<h2 align="center">💻 Tech Stack</h2> 
+<p align="center">
   <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 </p>
 
