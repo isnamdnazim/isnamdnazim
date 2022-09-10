@@ -5,7 +5,7 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <p align="center">
 <a href="https://www.facebook.com/isnamdnazim"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/isnamdnazim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
 <h2 align="center">💡 Problem Solving Profiles </h2>
 <p align="center">
@@ -18,7 +18,7 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 
 [![isnamdnazim's github activity graph](https://activity-graph.herokuapp.com/graph?username=isnamdnazim&theme=react-white&line=24292e&point=24292e&area=true&hide_border=false)](https://github.com/isnamdnazim)
 
-
+</p>
 
 
 
