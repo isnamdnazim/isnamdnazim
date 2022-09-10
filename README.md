@@ -5,8 +5,9 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <p align="center">
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/isnamduddin/)](https://www.facebook.com/isnamdnazim)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isnamdnazim/)](https://www.linkedin.com/in/isnamdnazim/)
+ </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=isnamdnazim" alt="Md Nazim Uddin" /> </p>
-</p>
+
 
 
 
