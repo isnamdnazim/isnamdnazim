@@ -12,10 +12,10 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 <a href="https://www.hackerrank.com/isnamdnazim"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/isnamdnazim"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p>
 
-<p align="center">
-  | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=buefy&show_icons=true&hide_border=true" alt="Nazims github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a> |
+<div align="center">
+| <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=buefy&show_icons=true&hide_border=true" alt="Nazims github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-</p>
+</div>
 
 
 
