@@ -41,7 +41,7 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 | ------------- | ------------- |
 
 
-[![isnamdnazim's github activity graph](https://activity-graph.herokuapp.com/graph?username=isnamdnazim&theme=react-dark&line=24292e&point=24292e&area=true&hide_border=false)](https://github.com/isnamdnazim)
+<img src="https://activity-graph.herokuapp.com/graph?username=shourov-sorkar&bg_color=00000&hide_border=true" width="100%"/>
 
 
 
