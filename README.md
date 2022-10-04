@@ -37,14 +37,18 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </p>
 
-| <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&theme=buefy&show_icons=true&hide_border=true" alt="Nazims github stats" /></a> | <a href="https://github.com/isnamdnazim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&show_icons=true&theme=dark&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&hide_border=true"/> 
+</p>
 
 [![Nazim's github activity graph](https://activity-graph.herokuapp.com/graph?username=isnamdnazim&theme=react-dark)](https://github.com/isnamdnazim/github-readme-activity-graph)
 
 
 
+<!---
+| <img src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&show_icons=true&theme=dark&hide_border=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark&hide_border=true"/> | 
+| ------------- | ------------- |
+--->
 
 
 
