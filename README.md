@@ -38,11 +38,10 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 </p>
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=isnamdnazim&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark"/> | 
+
+| <img src="https://github-readme-stats-isnamdnazim.vercel.app/api?username=isnamdnazim&show_icons=true&theme=dark"/> | <img src="https://github-readme-stats-isnamdnazim.vercel.app/api/top-langs/?username=isnamdnazim&layout=compact&theme=dark"/> | 
 | ------------- | ------------- |
 
-
-[![Nazim's github activity graph](https://activity-graph.herokuapp.com/graph?username=isnamdnazim&theme=react-dark)](https://github.com/isnamdnazim/github-readme-activity-graph)
 
 
 
