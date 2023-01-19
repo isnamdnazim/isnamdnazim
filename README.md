@@ -43,7 +43,9 @@ I'm **Md Nazim Uddin** from Bangladesh. I really enjoy learning new things. Conn
 | ------------- | ------------- |
 
 
-
+<h3 align="center">
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=isnamdnazim&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="Md Nazim Uddin"/>
+</h3>
 
 <!---
 <p align="center">
